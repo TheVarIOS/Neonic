@@ -1,12 +1,12 @@
 Package: com.astro.neonic
 Name: Neonic
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Neonic, a brightly colored neon icon theme pack
 Maintainer: variablecash@gmail.com
 Author: variablecash@gmail.com
 Section: Themes
-Depends: com.spark.snowboard
+Depends: 
 Filename: debs/NeonicForCydia.deb
 Size: 288338
 MD5sum: 12CE67EEF39BFA610BBFD4C6521DDC92
