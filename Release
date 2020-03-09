@@ -1,7 +1,7 @@
 Origin: Astro Repo
-Label: Made by the Astro team
+Label: Var
 Suite: stable
-Version: 1.1
+Version: 1.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
